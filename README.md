@@ -3,7 +3,7 @@
 
 A simple web project that generates a random color every time the **Generate** button is clicked. This project is built using **HTML, CSS, and JavaScript** and is perfect for beginners to understand DOM manipulation and event handling.
 
-## Live Demo :
+## Live Demo : https://reeyasejwal.github.io/color-generator/
 
 ## 🚀 Features
 - Generate a random color on button click  
